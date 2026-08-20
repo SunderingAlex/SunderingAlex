@@ -30,7 +30,7 @@ At IRONSCALES, I began as a Customer Success Intern and later moved into a part-
 
 ## Beyond software
 
-A lot of my work lives outside code. I manage The Endless Library, a reader, writer, and worldbuilding community, including its events, policies, moderation systems, and creative projects. My other work includes fiction and music, philosophy papers, and independent mathematical explorations—often pursued simply because I want to understand where an idea leads.
+A lot of my work lives outside code. I manage *The Endless Library,* a reader, writer, and worldbuilding community, including its events, policies, moderation systems, and creative projects. My other work includes writing fiction, composing music, discussing philosophy, writing academic papers, and independent mathematical explorations, often pursued simply because I want to understand where an idea leads. Though these hobbies of mine may seem disconnected from my general software projects, the skills I practice through each of them connect to my professional life in many ways. I love talking about these pastime pursuits, so feel free to ask me about them!
 
 ## Connect
 
