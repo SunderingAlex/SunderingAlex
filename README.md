@@ -18,7 +18,7 @@ I'm currently interested in early-career work across applied data science, decis
 
 For my master's thesis, *Unequal Information in Multi-Router Systems: Effects of System Composition in Shared Environments*, I designed and implemented NetWorld, a custom Python and NetworkX multi-agent simulator.
 
-The project studies how unequal access to routing information, and the mix of informed and less-informed agents, affects congestion, delay, and system-wide behavior in shared network environments. The research combined graph-based routing, controlled factorial experiments, seeded simulation, and quantitative analysis across 198,000 runs.
+The project studies how unequal access to routing information—and the mix of informed and less-informed agents—affects congestion, delay, and system-wide behavior in shared network environments. The research combined graph-based routing, controlled factorial experiments, seeded simulation, and quantitative analysis across 198,000 runs.
 
 ## Professional experience
 
@@ -29,6 +29,10 @@ At IRONSCALES, I began as a Customer Success Intern and later moved into a part-
 **Programming and analysis:** Python, NetworkX, pandas, NumPy, Matplotlib, Git  
 **Methods:** Multi-agent simulation, factorial experiments, regression analysis, graph search, quantitative analysis  
 **Professional systems:** Salesforce, Snowflake workflow exposure, Pendo, Jira, Zendesk
+
+## Beyond software
+
+A lot of my work lives outside code. I manage The Endless Library, a reader, writer, and worldbuilding community, including its events, policies, moderation systems, and creative projects. My other work includes fiction and music, philosophy papers, and independent mathematical explorations—often pursued simply because I want to understand where an idea leads.
 
 ## Connect
 
