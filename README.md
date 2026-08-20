@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Alex Fritz
 
-<!--
-**SunderingAlex/SunderingAlex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an M.S. in Artificial Intelligence and B.S. in Computer Science graduate from the University of Georgia, now based in Pittsburgh. I use simulation, experimentation, and data analysis to turn ambiguous systems questions into measurable investigations.
 
-Here are some ideas to get you started:
+I'm currently interested in early-career work across applied data science, decision science, simulation, operations research, technical analytics, and selected applied-AI roles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work on
+
+- Agent-based and multi-agent simulation
+- Experimental design and quantitative analysis
+- Graph algorithms and routing systems
+- Operational data and automation workflows
+- Clear technical documentation
+
+## Selected work
+
+### [NetWorld](https://github.com/SunderingAlex/networld-case-study)
+
+For my master's thesis, *Unequal Information in Multi-Router Systems: Effects of System Composition in Shared Environments*, I designed and implemented NetWorld, a custom Python and NetworkX multi-agent simulator.
+
+The project studies how unequal access to routing information—and the mix of informed and less-informed agents—affects congestion, delay, and system-wide behavior in shared network environments. The research combined graph-based routing, controlled factorial experiments, seeded simulation, and quantitative analysis across 198,000 runs.
+
+## Professional experience
+
+At IRONSCALES, I began as a Customer Success Intern and later moved into a part-time Revenue Operations role. I supported operational-data and invoice-automation workflows involving Salesforce and Snowflake, prepared account and billing data for reliable automation, mapped end-to-end processes, and produced technical documentation.
+
+## Tools and methods
+
+**Programming and analysis:** Python, NetworkX, pandas, NumPy, Matplotlib, Git  
+**Methods:** Multi-agent simulation, factorial experiments, regression analysis, graph search, quantitative analysis  
+**Professional systems:** Salesforce, Snowflake workflow exposure, Pendo, Jira, Zendesk
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/alex-fritz1/)
