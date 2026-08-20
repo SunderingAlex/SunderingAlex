@@ -14,11 +14,9 @@ I'm currently interested in early-career work across applied data science, decis
 
 ## Selected work
 
-### [NetWorld](https://github.com/SunderingAlex/networld-case-study)
+### [Unequal Information in Multi-Router Systems](https://github.com/SunderingAlex/networld-case-study)
 
-For my master's thesis, *Unequal Information in Multi-Router Systems: Effects of System Composition in Shared Environments*, I designed and implemented NetWorld, a custom Python and NetworkX multi-agent simulator.
-
-The project studies how unequal access to routing information—and the mix of informed and less-informed agents—affects congestion, delay, and system-wide behavior in shared network environments. The research combined graph-based routing, controlled factorial experiments, seeded simulation, and quantitative analysis across 198,000 runs.
+My master's thesis introduces NetWorld, a custom Python and NetworkX simulator built for controlled experiments on routing systems that share capacity-constrained environments. The study varies router composition, network topology, and occupancy to examine population outcomes, cohort effects, information spillovers, and the relationship between queue delay and detour.
 
 ## Professional experience
 
@@ -37,4 +35,3 @@ A lot of my work lives outside code. I manage The Endless Library, a reader, wri
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/alex-fritz1/)
-- [My Website (Under Construction)](https://sunderingalex.com/)
