@@ -1,6 +1,6 @@
 # Hi, I'm Alex Fritz
 
-I'm an M.S. in Artificial Intelligence and B.S. in Computer Science graduate from the University of Georgia, now based in Pittsburgh. I use simulation, experimentation, and data analysis to turn ambiguous systems questions into measurable investigations.
+I hold an M.S. in Artificial Intelligence and a B.S. in Computer Science from the University of Georgia, and I'm now based in Pittsburgh. I use simulation, experimentation, and data analysis to turn ambiguous systems questions into measurable investigations.
 
 I'm currently interested in early-career work across applied data science, decision science, simulation, operations research, technical analytics, and selected applied-AI roles.
 
@@ -30,7 +30,7 @@ At IRONSCALES, I began as a Customer Success Intern and later moved into a part-
 
 ## Beyond software
 
-A lot of my work lives outside code. I manage *The Endless Library,* a reader, writer, and worldbuilding community, including its events, policies, moderation systems, and creative projects. My other work includes writing fiction, composing music, discussing philosophy, writing academic papers, and independent mathematical explorations, often pursued simply because I want to understand where an idea leads. Though these hobbies of mine may seem disconnected from my general software projects, the skills I practice through each of them connect to my professional life in many ways. I love talking about these pastime pursuits, so feel free to ask me about them!
+A lot of my work lives outside code. I manage *The Endless Library,* a reader, writer, and worldbuilding community, including its events, policies, moderation systems, and creative projects. My other work includes writing fiction, composing music, discussing philosophy, writing academic papers, and independent mathematical explorations, often pursued simply because I want to understand where an idea leads. I love talking about these projects, so feel free to ask me about them!
 
 ## Connect
 
