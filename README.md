@@ -1,6 +1,6 @@
 # Hi, I'm Alex Fritz
 
-I hold an M.S. in Artificial Intelligence and a B.S. in Computer Science from the University of Georgia, and I'm now based in Pittsburgh. I use simulation, experimentation, and data analysis to turn ambiguous systems questions into measurable investigations.
+I build software that helps people organize their work, manage information, and automate repetitive tasks. My projects include a personal task manager, a sales lead tracker, a simulation framework for studying routing decisions, and much more. I hold an M.S. in Artificial Intelligence and a B.S. in Computer Science from the University of Georgia.
 
 I'm currently interested in early-career work across applied data science, decision science, simulation, operations research, technical analytics, and selected applied-AI roles.
 
