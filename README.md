@@ -2,7 +2,7 @@
 
 I build software that helps people organize their work, manage information, and automate repetitive tasks. My projects include a personal task manager, a sales lead tracker, a simulation framework for studying routing decisions, and much more. I hold an M.S. in Artificial Intelligence and a B.S. in Computer Science from the University of Georgia.
 
-I'm currently interested in early-career work across applied data science, decision science, simulation, operations research, technical analytics, and selected applied-AI roles.
+I'm currently interested in early-career work across applied data science, project management, operations research, technical analytics, and applied-AI roles.
 
 ## What I work on
 
