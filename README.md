@@ -34,4 +34,4 @@ A lot of my work lives outside code. I manage *The Endless Library,* a reader, w
 
 ## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/alex-fritz1/)
+- [LinkedIn](https://www.linkedin.com/in/sunderingalex/)
